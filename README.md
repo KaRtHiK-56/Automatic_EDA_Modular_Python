@@ -1,4 +1,4 @@
-# Data Preprocessing Toolkit
+# Data Preprocessing library
 
 ## Introduction
 
